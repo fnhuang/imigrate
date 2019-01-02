@@ -295,12 +295,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
     <script src="datamaps.world.hires.min.js"></script>
+    <script src="jquery.csv.min.js"></script>
 
     <script>
+        
+        
       $(document).ready(function(){
         $('[data-toggle="popover"]').popover(); 
       });
-
+      
       var style = getComputedStyle(document.body);
       var theme = {};
       theme.primary = style.getPropertyValue('--primary');
@@ -311,8 +314,23 @@
       theme.danger = style.getPropertyValue('--danger');
       theme.light = style.getPropertyValue('--light');
       theme.dark = style.getPropertyValue('--dark');
+      
+      function loadFile(filePath) {
+        var result = null;
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open("GET", filePath, false);
+        xmlhttp.send();
+        if (xmlhttp.status === 200) {
+            result = xmlhttp.responseText;
+        }
+        
+        return result;
+      }
 
+      var data = loadFile("data/happiness-cantril-ladder.csv");
+      console.log(data);
 
+      
       var series = [
           ["BLR",75],["BLZ",43],["RUS",50],["RWA",88],["SRB",21],["TLS",43],
           ["REU",21],["TKM",19],["TJK",60],["ROU",4],["TKL",44],["GNB",38],
@@ -332,7 +350,6 @@
           ["CAF",93],["COD",36],["CZE",77],["CYP",65],["CXR",14],["CRI",31],
           ["CUW",67],["CPV",63],["CUB",40],["SWZ",58],["SYR",96],["SXM",31]];
 
-      var dataset = {};
 
       var onlyValues = series.map(function(obj){ return obj[1]; });
       var minValue = Math.min.apply(null, onlyValues),
@@ -341,6 +358,8 @@
       var paletteScale = d3.scale.linear()
               .domain([minValue,maxValue])
               .range(["#EFEFFF","#02386F"]); // blue color
+      
+      var dataset = {};
 
       series.forEach(function(item){ //
           var iso = item[0],
