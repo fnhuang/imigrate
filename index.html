@@ -363,19 +363,34 @@
       var paletteScale = d3.scale.linear()
               .domain([minValue,maxValue])
               .range(["#EFEFFF","#02386F"]); // blue color
+      var radiusScale = d3.scale.linear().domain([minValue, maxValue]).range([1,5])
       
       var dataset = {};
 
       series.forEach(function(item){ //
           var iso = item[0],
               value = item[1];
-          dataset[iso] = { numberOfThings: value, fillColor: paletteScale(value) };
+          dataset[iso] = { 
+              //numberOfThings: value, fillColor: paletteScale(value) 
+          };
       });
+      
+      var colors = {};
+      var values = {};
+      series.forEach(function(item){
+          var country = item[0],
+          value = item[1];
+          colors[country] = paletteScale(value);
+          values[country] = value;
+      });
+      colors['defaultFill'] = '#E1E1E1'
 
 
       var map = new Datamap({
         element: document.getElementById('map'),
-        fills: { defaultFill: '#E1E1E1' },
+        fills: colors,
+                //{ 'MINOR': 'black',
+            //defaultFill:  },
         data: dataset,
         geographyConfig: {
             borderColor: '#FFFFFF',
@@ -394,6 +409,55 @@
         }
 
       });
+      
+      
+       var cities = [{
+        name: 'Singapore',
+        radius: radiusScale(values['SGP']),
+        latitude: 1.3521,
+        longitude: 103.8198,
+        fillOpacity: 1,
+        fillKey: 'SGP',
+        borderColor: colors['SGP'], 
+        happiness: values['SGP']
+      },{
+        name: 'St. Petersburg',
+        radius: radiusScale(values['RUS']),
+        latitude: 59.9343,
+        longitude: 30.3351,
+        fillOpacity: 1,
+        fillKey: 'RUS',
+        borderColor: colors['RUS'],
+        happiness: values['RUS']
+      },{
+        name: 'London',
+        radius: radiusScale(values['GBR']),
+        latitude: 51.5074,
+        longitude: 0.1278,
+        fillOpacity: 1,
+        fillKey: 'GBR',
+        borderColor: colors['GBR'],
+        happiness: values['GBR']
+      },{
+        name: 'Jakarta',
+        radius: radiusScale(values['IDN']),
+        latitude: -6.1805,
+        longitude: 106.8283,
+        fillOpacity: 1,
+        fillKey: 'IDN',
+        borderColor: colors['IDN'],
+        happiness: values['IDN']
+      }
+    ];
+    
+    //draw bubbles for bombs
+    map.bubbles(cities, {
+        popupTemplate: function (geo, data) {
+                return ['<div class="hoverinfo">' +  data.name,
+                '<br/>Happiness: ' +  data.happiness + 
+                '</div>'].join('');
+        }
+    });
     </script>
 
   </body>
