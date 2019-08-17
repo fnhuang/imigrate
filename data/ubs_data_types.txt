@@ -2,7 +2,7 @@ Earnings: Department Manager
 General: Purchasing Power Parity (1988 - 1997, 2003)
 Prices: City Breaks
 Earnings: Automobile Mechanic 
-Earnings: Average annual (gross)
+*Earnings: Average annual (gross)
 Earnings: General Practitioner
 Earnings: Carpenter
 FX: Inflation (2009 - 2012)
@@ -20,7 +20,7 @@ Prices: Public Transport
 Earnings: Primary School Teacher
 FX: Inflation (2012 - 2015)
 General: Wage Level (gross)
-General: Working time required to buy…
+General: Working time required to buyï¿½
 FX: Conversion Rates of Foreign Currencies into Swiss Francs (1973 - 1976)
 FX: Conversion Rates of Foreign Currencies into U.S. Dollars (1979 - 1985)
 Earnings: Taxes and Social Security (average)
@@ -29,7 +29,7 @@ Earnings: Financial Analyst
 Earnings: Practice Assistant
 Prices: Restaurants and Hotels
 None
-General: Domestic Purchasing Power
+*General: Domestic Purchasing Power
 Earnings: Factory Worker
 Prices: Women's and Men's Clothing
 Earnings: Product Manager
@@ -38,12 +38,12 @@ General: Price Level
 Earnings: Bus Driver
 FX: Exchange Rates
 Main Section
-Prices: Housing
+*Prices: Housing
 Earnings: Bank Credit Clerk
 Prices: Automobiles and Maintenance Costs
 Earnings: Electrical Engineer
 Earnings: Call Center Agent
 General: Wage Level (net)
-Prices: Total expenditure on goods and services
-Prices: Food
+*Prices: Total expenditure on goods and services
+*Prices: Food
 General: Wage Level (net annual)

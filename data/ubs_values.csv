@@ -1,0 +1,386 @@
+City,Label,Value description,Value
+Amsterdam,Earnings: Average annual (gross),(USD),38227.55183295613
+Athens,Earnings: Average annual (gross),(USD),18125.315306631823
+Auckland,Earnings: Average annual (gross),(USD),37166.32828378127
+Bangkok,Earnings: Average annual (gross),(USD),11762.813895714906
+Barcelona,Earnings: Average annual (gross),(USD),29902.85490945114
+Beijing,Earnings: Average annual (gross),(USD),11137.742693685532
+Berlin,Earnings: Average annual (gross),(USD),40002.040065392546
+Bogotá,Earnings: Average annual (gross),(USD),9650.437091680908
+Bratislava,Earnings: Average annual (gross),(USD),12950.39221193268
+Brussels,Earnings: Average annual (gross),(USD),32562.303684287126
+Bucharest,Earnings: Average annual (gross),(USD),11144.722990413837
+Budapest,Earnings: Average annual (gross),(USD),10560.876946967346
+Buenos Aires,Earnings: Average annual (gross),(USD),12442.772795658728
+Cairo,Earnings: Average annual (gross),(USD),2559.1495092897317
+Chicago,Earnings: Average annual (gross),(USD),54905.71989900738
+Copenhagen,Earnings: Average annual (gross),(USD),50051.85804848735
+Doha,Earnings: Average annual (gross),(USD),20802.271263943767
+Dubai ,Earnings: Average annual (gross),(USD),31136.39827468822
+Dublin,Earnings: Average annual (gross),(USD),41153.47342316273
+Frankfurt,Earnings: Average annual (gross),(USD),43844.78845441373
+Geneva,Earnings: Average annual (gross),(USD),74889.27032351104
+Hanoi,Earnings: Average annual (gross),(USD),1219.4025834978972
+Helsinki,Earnings: Average annual (gross),(USD),37978.152203845864
+Hong Kong,Earnings: Average annual (gross),(USD),37788.80084039828
+Istanbul,Earnings: Average annual (gross),(USD),9540.51542814535
+Jakarta,Earnings: Average annual (gross),(USD),5177.044206442318
+Johannesburg,Earnings: Average annual (gross),(USD),16163.653203179285
+Kiev,Earnings: Average annual (gross),(USD),4385.237767243368
+Kuala Lumpur,Earnings: Average annual (gross),(USD),12453.44857388288
+Lagos,Earnings: Average annual (gross),(USD),1655.8061768434636
+Lima,Earnings: Average annual (gross),(USD),10900.783866786633
+Lisbon ,Earnings: Average annual (gross),(USD),17688.401652378583
+Ljubljana,Earnings: Average annual (gross),(USD),22257.82203364699
+London,Earnings: Average annual (gross),(USD),39555.82526286308
+Los Angeles,Earnings: Average annual (gross),(USD),58664.07692307541
+Luxembourg,Earnings: Average annual (gross),(USD),58077.5563707999
+Lyon,Earnings: Average annual (gross),(USD),34303.198353583095
+Madrid,Earnings: Average annual (gross),(USD),31108.140583460445
+Manama,Earnings: Average annual (gross),(USD),29343.546519305586
+Manila,Earnings: Average annual (gross),(USD),7361.149616781404
+Mexico City,Earnings: Average annual (gross),(USD),6225.182305355018
+Miami,Earnings: Average annual (gross),(USD),53041.191339812445
+Milan,Earnings: Average annual (gross),(USD),35935.307972776754
+Montreal,Earnings: Average annual (gross),(USD),45421.636790279124
+Moscow,Earnings: Average annual (gross),(USD),9068.36763371035
+Mumbai,Earnings: Average annual (gross),(USD),5800.452241921223
+Munich,Earnings: Average annual (gross),(USD),45553.58083219802
+Nairobi,Earnings: Average annual (gross),(USD),6626.190288102739
+New Delhi,Earnings: Average annual (gross),(USD),4966.807995485286
+New York,Earnings: Average annual (gross),(USD),59019.65186914237
+Nicosia,Earnings: Average annual (gross),(USD),27478.414673388383
+Oslo,Earnings: Average annual (gross),(USD),51668.71377460907
+Panama,Earnings: Average annual (gross),(USD),16303.587790597821
+Paris,Earnings: Average annual (gross),(USD),32879.42415600754
+Prague,Earnings: Average annual (gross),(USD),13855.355187121226
+Riga,Earnings: Average annual (gross),(USD),10201.825201306061
+Rio de Janeiro,Earnings: Average annual (gross),(USD),13115.065359207088
+Riyadh,Earnings: Average annual (gross),(USD),19727.307139643934
+Rome,Earnings: Average annual (gross),(USD),32935.45543470606
+Santiago de Chile,Earnings: Average annual (gross),(USD),18285.8199524688
+São Paulo,Earnings: Average annual (gross),(USD),16445.586890552386
+Seoul,Earnings: Average annual (gross),(USD),26615.980841430435
+Shanghai,Earnings: Average annual (gross),(USD),11036.32595735861
+Sofia,Earnings: Average annual (gross),(USD),9487.150943230157
+St Petersburg,Earnings: Average annual (gross),(USD),7510.095576300358
+Stockholm,Earnings: Average annual (gross),(USD),46199.42170816227
+Sydney,Earnings: Average annual (gross),(USD),45164.90250055969
+Taipei,Earnings: Average annual (gross),(USD),31593.46631287167
+Tallinn,Earnings: Average annual (gross),(USD),16212.381371982034
+Tel Aviv,Earnings: Average annual (gross),(USD),36247.183770682845
+Tokyo,Earnings: Average annual (gross),(USD),45640.59892428072
+Toronto,Earnings: Average annual (gross),(USD),47656.25122921846
+Vienna,Earnings: Average annual (gross),(USD),47135.82639376412
+Vilnius,Earnings: Average annual (gross),(USD),12837.927264827556
+Warsaw,Earnings: Average annual (gross),(USD),14521.755267678815
+Zagreb,Earnings: Average annual (gross),(USD),13855.381171322413
+Zurich,Earnings: Average annual (gross),(USD),67882.30374610693
+Los Angeles,General: Domestic Purchasing Power,Net (New York = 100),123.90784673588546
+Zurich,General: Domestic Purchasing Power,Net (New York = 100),122.53520694064494
+Miami,General: Domestic Purchasing Power,Net (New York = 100),121.74439266111708
+Geneva,General: Domestic Purchasing Power,Net (New York = 100),117.97619637490267
+Luxembourg,General: Domestic Purchasing Power,Net (New York = 100),117.30771151558368
+Chicago,General: Domestic Purchasing Power,Net (New York = 100),105.75966653475892
+Toronto,General: Domestic Purchasing Power,Net (New York = 100),101.54075670887823
+Manama,General: Domestic Purchasing Power,Net (New York = 100),100.6269513817503
+Hong Kong,General: Domestic Purchasing Power,Net (New York = 100),100.28249217614946
+New York,General: Domestic Purchasing Power,Net (New York = 100),100
+Munich,General: Domestic Purchasing Power,Net (New York = 100),99.14102343915
+Frankfurt,General: Domestic Purchasing Power,Net (New York = 100),97.5689154740979
+Sydney,General: Domestic Purchasing Power,Net (New York = 100),96.46415042495974
+Dubai,General: Domestic Purchasing Power,Net (New York = 100),91.96111615225918
+Berlin,General: Domestic Purchasing Power,Net (New York = 100),91.58780907879783
+Vienna,General: Domestic Purchasing Power,Net (New York = 100),90.9259429926404
+Dublin,General: Domestic Purchasing Power,Net (New York = 100),88.74034184047188
+Montreal,General: Domestic Purchasing Power,Net (New York = 100),87.25467939158283
+Doha,General: Domestic Purchasing Power,Net (New York = 100),85.02851841329617
+Tokyo,General: Domestic Purchasing Power,Net (New York = 100),84.77107644552567
+Auckland,General: Domestic Purchasing Power,Net (New York = 100),84.05135512630424
+Stockholm,General: Domestic Purchasing Power,Net (New York = 100),83.67304552549454
+London,General: Domestic Purchasing Power,Net (New York = 100),83.384208956831
+Riyadh,General: Domestic Purchasing Power,Net (New York = 100),83.12162205380912
+Nicosia,General: Domestic Purchasing Power,Net (New York = 100),83.0434446242372
+Taipei,General: Domestic Purchasing Power,Net (New York = 100),83.035408629101
+Oslo,General: Domestic Purchasing Power,Net (New York = 100),80.59785486762934
+Tel Aviv,General: Domestic Purchasing Power,Net (New York = 100),80.32840416150059
+Lyon,General: Domestic Purchasing Power,Net (New York = 100),77.93571333629562
+Copenhagen,General: Domestic Purchasing Power,Net (New York = 100),77.04332274936066
+Helsinki,General: Domestic Purchasing Power,Net (New York = 100),73.53618429466826
+Amsterdam,General: Domestic Purchasing Power,Net (New York = 100),73.53591197623123
+Paris,General: Domestic Purchasing Power,Net (New York = 100),65.78771544594034
+Barcelona,General: Domestic Purchasing Power,Net (New York = 100),65.75566334609361
+Rome,General: Domestic Purchasing Power,Net (New York = 100),64.99785771361573
+Madrid,General: Domestic Purchasing Power,Net (New York = 100),62.94093940900084
+Milan,General: Domestic Purchasing Power,Net (New York = 100),60.52162770293873
+Seoul,General: Domestic Purchasing Power,Net (New York = 100),58.512639058955905
+Santiago de Chile,General: Domestic Purchasing Power,Net (New York = 100),56.99571973610381
+São Paulo,General: Domestic Purchasing Power,Net (New York = 100),54.09466907602665
+Brussels,General: Domestic Purchasing Power,Net (New York = 100),53.72673442255888
+Ljubljana,General: Domestic Purchasing Power,Net (New York = 100),49.31281621815427
+Johannesburg,General: Domestic Purchasing Power,Net (New York = 100),48.83216739447546
+Tallinn,General: Domestic Purchasing Power,Net (New York = 100),47.02128687225438
+Hanoi,General: Domestic Purchasing Power,Net (New York = 100),46.7619361692415
+Rio de Janeiro,General: Domestic Purchasing Power,Net (New York = 100),45.984415547380976
+Warsaw,General: Domestic Purchasing Power,Net (New York = 100),45.93874886387725
+Lisbon ,General: Domestic Purchasing Power,Net (New York = 100),44.536021565885136
+Kuala Lumpur,General: Domestic Purchasing Power,Net (New York = 100),43.595675885484674
+Bangkok,General: Domestic Purchasing Power,Net (New York = 100),42.67811399025887
+Panama,General: Domestic Purchasing Power,Net (New York = 100),41.48597861434502
+Vilnius,General: Domestic Purchasing Power,Net (New York = 100),40.99487654968536
+Athens,General: Domestic Purchasing Power,Net (New York = 100),40.74523132589166
+Prague,General: Domestic Purchasing Power,Net (New York = 100),38.49589828176468
+Lima,General: Domestic Purchasing Power,Net (New York = 100),38.350187227997786
+Sofia,General: Domestic Purchasing Power,Net (New York = 100),37.049326239719356
+Bogotá,General: Domestic Purchasing Power,Net (New York = 100),36.73367601213217
+Bratislava,General: Domestic Purchasing Power,Net (New York = 100),35.99701916814027
+Moscow,General: Domestic Purchasing Power,Net (New York = 100),33.59647539205722
+Manila,General: Domestic Purchasing Power,Net (New York = 100),32.9990358872984
+Shanghai,General: Domestic Purchasing Power,Net (New York = 100),32.44177867529909
+Beijing,General: Domestic Purchasing Power,Net (New York = 100),32.03197226582637
+Budapest,General: Domestic Purchasing Power,Net (New York = 100),31.693642150855755
+Riga,General: Domestic Purchasing Power,Net (New York = 100),31.403265162592835
+Buenos Aires,General: Domestic Purchasing Power,Net (New York = 100),31.258918158011095
+Istanbul,General: Domestic Purchasing Power,Net (New York = 100),30.964208685054338
+Bucharest,General: Domestic Purchasing Power,Net (New York = 100),30.23386447872542
+St Petersburg,General: Domestic Purchasing Power,Net (New York = 100),27.288526289599474
+Zagreb,General: Domestic Purchasing Power,Net (New York = 100),26.9383946542317
+Mexico City,General: Domestic Purchasing Power,Net (New York = 100),26.378389006534675
+Mumbai,General: Domestic Purchasing Power,Net (New York = 100),25.053732016859083
+Nairobi,General: Domestic Purchasing Power,Net (New York = 100),24.03711680317481
+New Delhi,General: Domestic Purchasing Power,Net (New York = 100),23.090159285601263
+Kiev,General: Domestic Purchasing Power,Net (New York = 100),20.21054951189215
+Jakarta,General: Domestic Purchasing Power,Net (New York = 100),19.223600206539057
+Cairo,General: Domestic Purchasing Power,Net (New York = 100),16.86977684943327
+Lagos,General: Domestic Purchasing Power,Net (New York = 100),7.917610347342027
+Amsterdam,Prices: Housing,(USD),1712.7075545833334
+Athens,Prices: Housing,(USD),1152.2945833333333
+Auckland,Prices: Housing,(USD),1432.409932222222
+Bangkok,Prices: Housing,(USD),765.9463333333333
+Barcelona,Prices: Housing,(USD),1501.5601083333333
+Beijing,Prices: Housing,(USD),1532.26625
+Berlin,Prices: Housing,(USD),1159.49
+Bogotá,Prices: Housing,(USD),617.110975
+Bratislava,Prices: Housing,(USD),801.7750000000001
+Brussels,Prices: Housing,(USD),1540.8470833333333
+Bucharest,Prices: Housing,(USD),530.683
+Budapest,Prices: Housing,(USD),692.967
+Buenos Aires,Prices: Housing,(USD),663.4488
+Cairo,Prices: Housing,(USD),403.27500000000003
+Chicago,Prices: Housing,(USD),2404.0833333333335
+Copenhagen,Prices: Housing,(USD),1867.0296
+Doha,Prices: Housing,(USD),2464.9697666666666
+Dubai,Prices: Housing,(USD),2653.5634999999997
+Dublin,Prices: Housing,(USD),2317.9520833333336
+Frankfurt,Prices: Housing,(USD),1597.6055579166668
+Geneva,Prices: Housing,(USD),2339.950083333333
+Hanoi,Prices: Housing,(USD),889.5905775353334
+Helsinki,Prices: Housing,(USD),2050.621110555556
+Hong Kong,Prices: Housing,(USD),3946.8570000000004
+Istanbul,Prices: Housing,(USD),600.1537916666666
+Jakarta,Prices: Housing,(USD),1042.8284278591668
+Johannesburg,Prices: Housing,(USD),1149.8655729166667
+Kiev,Prices: Housing,(USD),815.529975
+Kuala Lumpur,Prices: Housing,(USD),449.6058333333333
+Lagos,Prices: Housing,(USD),261.175479
+Lima,Prices: Housing,(USD),698.0281413333332
+Lisbon,Prices: Housing,(USD),1233.5
+Ljubljana,Prices: Housing,(USD),1031.0004166666665
+London,Prices: Housing,(USD),2547.789241666667
+Los Angeles,Prices: Housing,(USD),2480.3958333333335
+Luxembourg,Prices: Housing,(USD),2479.8489583333335
+Lyon,Prices: Housing,(USD),992.1451666666667
+Madrid,Prices: Housing,(USD),1251.6598611111112
+Manama,Prices: Housing,(USD),1237.9266666666665
+Manila,Prices: Housing,(USD),613.63225
+Mexico City,Prices: Housing,(USD),1008.9245833333334
+Miami,Prices: Housing,(USD),1884.4166666666667
+Milan,Prices: Housing,(USD),1882.93775
+Montreal,Prices: Housing,(USD),684.0181833333332
+Moscow,Prices: Housing,(USD),1553.1017208333335
+Mumbai,Prices: Housing,(USD),821.2635951666667
+Munich,Prices: Housing,(USD),1837.5860666666667
+Nairobi,Prices: Housing,(USD),544.4472000000001
+New Delhi,Prices: Housing,(USD),532.993388888889
+New York,Prices: Housing,(USD),3833.6555555555556
+Nicosia,Prices: Housing,(USD),801.775
+Oslo,Prices: Housing,(USD),2039.4483333333335
+Panama,Prices: Housing,(USD),1404.1666666666667
+Paris,Prices: Housing,(USD),2853.4966666666674
+Prague,Prices: Housing,(USD),882.9544999999999
+Riga,Prices: Housing,(USD),862.4220833333334
+Rio de Janeiro,Prices: Housing,(USD),913.2993333333334
+Riyadh,Prices: Housing,(USD),653.9105555555557
+Rome,Prices: Housing,(USD),1397.9666666666665
+Santiago de Chile,Prices: Housing,(USD),724.5729166666666
+São Paulo,Prices: Housing,(USD),912.2719999999999
+Seoul,Prices: Housing,(USD),1332.1879999999999
+Shanghai,Prices: Housing,(USD),897.0005000000001
+Sofia,Prices: Housing,(USD),521.3786666666666
+St Petersburg,Prices: Housing,(USD),942.6598266666666
+Stockholm,Prices: Housing,(USD),1665.603
+Sydney,Prices: Housing,(USD),2152.8776666666668
+Taipei,Prices: Housing,(USD),1861.3692
+Tallinn,Prices: Housing,(USD),793.6544583333334
+Tel Aviv,Prices: Housing,(USD),1675.4529461666664
+Tokyo,Prices: Housing,(USD),1951.4748666666667
+Toronto,Prices: Housing,(USD),1333.381725
+Vienna,Prices: Housing,(USD),1243.9847499999998
+Vilnius,Prices: Housing,(USD),728.6901250000001
+Warsaw,Prices: Housing,(USD),845.6666666666666
+Zagreb,Prices: Housing,(USD),791.6609749999999
+Zurich,Prices: Housing,(USD),2100.7002333333335
+Amsterdam,Prices: Total expenditure on goods and services,(USD),3010.402664727706
+Athens,Prices: Total expenditure on goods and services,(USD),2669.7276540379626
+Auckland,Prices: Total expenditure on goods and services,(USD),3280.6921944432347
+Bangkok,Prices: Total expenditure on goods and services,(USD),2247.0473185238916
+Barcelona,Prices: Total expenditure on goods and services,(USD),2580.615341013696
+Beijing,Prices: Total expenditure on goods and services,(USD),2391.877174546852
+Berlin,Prices: Total expenditure on goods and services,(USD),2931.221805488838
+Bogota,Prices: Total expenditure on goods and services,(USD),2038.5731025208572
+Bratislava,Prices: Total expenditure on goods and services,(USD),2463.730205797263
+Brussels,Prices: Total expenditure on goods and services,(USD),3162.6560863350264
+Bucharest,Prices: Total expenditure on goods and services,(USD),1995.3641161774517
+Budapest,Prices: Total expenditure on goods and services,(USD),2052.6918952736432
+Buenos Aires,Prices: Total expenditure on goods and services,(USD),2446.1132538844286
+Cairo,Prices: Total expenditure on goods and services,(USD),1272.36534024379
+Chicago,Prices: Total expenditure on goods and services,(USD),3405.815539362468
+Copenhagen,Prices: Total expenditure on goods and services,(USD),3897.01069909658
+Doha,Prices: Total expenditure on goods and services,(USD),2345.210691104692
+Dubai,Prices: Total expenditure on goods and services,(USD),2703.864763386266
+Dublin,Prices: Total expenditure on goods and services,(USD),3180.434995697583
+Frankfurt,Prices: Total expenditure on goods and services,(USD),2982.9020235765392
+Geneva,Prices: Total expenditure on goods and services,(USD),4164.992916446512
+Hanoi,Prices: Total expenditure on goods and services,(USD),1732.8548505735282
+Helsinki,Prices: Total expenditure on goods and services,(USD),3370.2001183327975
+Hong Kong,Prices: Total expenditure on goods and services,(USD),2810.3484642768767
+Istanbul,Prices: Total expenditure on goods and services,(USD),1937.290281296107
+Jakarta,Prices: Total expenditure on goods and services,(USD),2087.768499049721
+Johannesburg,Prices: Total expenditure on goods and services,(USD),2287.112952177317
+Kiev,Prices: Total expenditure on goods and services,(USD),1617.5937864910593
+Kuala Lumpur,Prices: Total expenditure on goods and services,(USD),2103.283928816558
+Lagos,Prices: Total expenditure on goods and services,(USD),1493.0693846969841
+Lima,Prices: Total expenditure on goods and services,(USD),2092.537014056601
+Lisbon,Prices: Total expenditure on goods and services,(USD),2571.328843483047
+Ljubljana,Prices: Total expenditure on goods and services,(USD),2543.4289460166683
+London,Prices: Total expenditure on goods and services,(USD),3411.64000004212
+Los Angeles,Prices: Total expenditure on goods and services,(USD),3059.5792187814527
+Luxembourg,Prices: Total expenditure on goods and services,(USD),3270.0463476295117
+Lyon,Prices: Total expenditure on goods and services,(USD),2917.9592024241297
+Madrid,Prices: Total expenditure on goods and services,(USD),2775.753077795225
+Manama,Prices: Total expenditure on goods and services,(USD),2599.6624265537966
+Manila,Prices: Total expenditure on goods and services,(USD),1661.762770597391
+Mexico City,Prices: Total expenditure on goods and services,(USD),1872.716833626735
+Miami,Prices: Total expenditure on goods and services,(USD),3008.5516015321537
+Milan,Prices: Total expenditure on goods and services,(USD),3505.071713005689
+Montreal,Prices: Total expenditure on goods and services,(USD),2988.8780319083085
+Moscow,Prices: Total expenditure on goods and services,(USD),2264.3187544820194
+Mumbai,Prices: Total expenditure on goods and services,(USD),1711.729171838931
+Munich,Prices: Total expenditure on goods and services,(USD),3048.052717166899
+Nairobi,Prices: Total expenditure on goods and services,(USD),1937.0807122023893
+New Delhi,Prices: Total expenditure on goods and services,(USD),1690.298410060966
+New York,Prices: Total expenditure on goods and services,(USD),3673.0401225362903
+Nicosia,Prices: Total expenditure on goods and services,(USD),2667.8340635111877
+Oslo,Prices: Total expenditure on goods and services,(USD),3958.1340388234694
+Panama City,Prices: Total expenditure on goods and services,(USD),3051.676613059813
+Paris,Prices: Total expenditure on goods and services,(USD),3351.4426293893603
+Prague,Prices: Total expenditure on goods and services,(USD),2327.4784551125467
+Riga,Prices: Total expenditure on goods and services,(USD),2118.175139519505
+Rio de Janeiro,Prices: Total expenditure on goods and services,(USD),2216.3054322656367
+Riyadh,Prices: Total expenditure on goods and services,(USD),2093.4472004049785
+Rome,Prices: Total expenditure on goods and services,(USD),2975.3631258589976
+Santiago de Chile,Prices: Total expenditure on goods and services,(USD),2377.3981473226204
+Sao Paulo,Prices: Total expenditure on goods and services,(USD),2287.658134838964
+Seoul,Prices: Total expenditure on goods and services,(USD),3242.184218304613
+Shanghai,Prices: Total expenditure on goods and services,(USD),2391.6139432150403
+Sofia,Prices: Total expenditure on goods and services,(USD),1862.8114092792916
+St Petersburg,Prices: Total expenditure on goods and services,(USD),2297.8866398298946
+Stockholm,Prices: Total expenditure on goods and services,(USD),3270.7291163073296
+Sydney,Prices: Total expenditure on goods and services,(USD),3353.341376101484
+Taipei,Prices: Total expenditure on goods and services,(USD),2890.419173297121
+Tallinn,Prices: Total expenditure on goods and services,(USD),2577.6765868212005
+Tel Aviv,Prices: Total expenditure on goods and services,(USD),3137.739497564301
+Tokyo,Prices: Total expenditure on goods and services,(USD),3654.462614887188
+Toronto,Prices: Total expenditure on goods and services,(USD),2973.8544635082326
+Vienna,Prices: Total expenditure on goods and services,(USD),3049.0705096986676
+Vilnius,Prices: Total expenditure on goods and services,(USD),2198.9501959024747
+Warsaw,Prices: Total expenditure on goods and services,(USD),2084.9688439900883
+Zagreb,Prices: Total expenditure on goods and services,(USD),2735.313822967447
+Zurich,Prices: Total expenditure on goods and services,(USD),4260.591922904657
+Amsterdam,Prices: Food,(USD),339.3796760929058
+Athens,Prices: Food,(USD),308.3765598365419
+Auckland,Prices: Food,(USD),407.2802176982681
+Bangkok,Prices: Food,(USD),394.72028093774253
+Barcelona,Prices: Food,(USD),303.1854619724251
+Beijing,Prices: Food,(USD),342.0480242084536
+Berlin,Prices: Food,(USD),354.3286475937572
+Bogotá,Prices: Food,(USD),252.63578080803003
+Bratislava,Prices: Food,(USD),275.44144902707967
+Brussels,Prices: Food,(USD),342.27462320858535
+Bucharest,Prices: Food,(USD),200.90868367988955
+Budapest,Prices: Food,(USD),305.0331572330799
+Buenos Aires,Prices: Food,(USD),222.45847223188034
+Cairo,Prices: Food,(USD),176.6810486498388
+Chicago,Prices: Food,(USD),473.69412274163284
+Copenhagen,Prices: Food,(USD),501.3015555640417
+Doha,Prices: Food,(USD),315.53596798048517
+Dubai,Prices: Food,(USD),324.2453095
+Dublin,Prices: Food,(USD),381.15612228601145
+Frankfurt,Prices: Food,(USD),375.6082905029762
+Geneva,Prices: Food,(USD),705.7663522578507
+Hanoi,Prices: Food,(USD),257.49242467312587
+Helsinki,Prices: Food,(USD),415.78230786390407
+Hong Kong,Prices: Food,(USD),359.1199201500001
+Istanbul,Prices: Food,(USD),302.7419078015695
+Jakarta,Prices: Food,(USD),287.4942621960971
+Johannesburg,Prices: Food,(USD),259.76214678153815
+Kiev,Prices: Food,(USD),155.0838072102445
+Kuala Lumpur,Prices: Food,(USD),444.171757031643
+Lagos,Prices: Food,(USD),156.79609382535213
+Lima,Prices: Food,(USD),253.82355265384317
+Lisbon,Prices: Food,(USD),303.0780633704746
+Ljubljana,Prices: Food,(USD),350.2030952888675
+London,Prices: Food,(USD),393.22971221876185
+Los Angeles,Prices: Food,(USD),404.07845909090906
+Luxembourg,Prices: Food,(USD),406.56735633333335
+Lyon,Prices: Food,(USD),369.249378480641
+Madrid,Prices: Food,(USD),298.69703864383894
+Manama,Prices: Food,(USD),387.348688956124
+Manila,Prices: Food,(USD),214.04131083382995
+Mexico City,Prices: Food,(USD),206.20229749164758
+Miami,Prices: Food,(USD),417.5984620854299
+Milan,Prices: Food,(USD),366.86509170997
+Montreal,Prices: Food,(USD),416.340943793991
+Moscow,Prices: Food,(USD),228.6431181200855
+Mumbai,Prices: Food,(USD),280.0110965167869
+Munich,Prices: Food,(USD),404.746465855856
+Nairobi,Prices: Food,(USD),229.07507625348433
+New Delhi,Prices: Food,(USD),265.27336975217156
+New York,Prices: Food,(USD),478.88499871093717
+Nicosia,Prices: Food,(USD),320.58897179643947
+Oslo,Prices: Food,(USD),499.44439340844525
+Panama,Prices: Food,(USD),336.2467232655364
+Paris,Prices: Food,(USD),426.4270826662336
+Prague,Prices: Food,(USD),297.43983000788535
+Riga,Prices: Food,(USD),235.90979644835926
+Rio de Janeiro,Prices: Food,(USD),252.49020669409165
+Riyadh,Prices: Food,(USD),209.39337818750232
+Rome,Prices: Food,(USD),343.4701723306979
+Santiago de Chile,Prices: Food,(USD),289.782320768569
+São Paulo,Prices: Food,(USD),253.8416600905914
+Seoul,Prices: Food,(USD),592.569696765974
+Shanghai,Prices: Food,(USD),362.391257691925
+Sofia,Prices: Food,(USD),221.7519305491143
+St Petersburg,Prices: Food,(USD),276.4982650053526
+Stockholm,Prices: Food,(USD),405.0449153207415
+Sydney,Prices: Food,(USD),397.72767530389615
+Taipei,Prices: Food,(USD),439.260323763413
+Tallinn,Prices: Food,(USD),320.2894868177149
+Tel Aviv,Prices: Food,(USD),410.45921173279214
+Tokyo,Prices: Food,(USD),529.0137357904681
+Toronto,Prices: Food,(USD),349.26683982013174
+Vienna,Prices: Food,(USD),423.25921065720894
+Vilnius,Prices: Food,(USD),252.75215802972758
+Warsaw,Prices: Food,(USD),258.31521237982156
+Zagreb,Prices: Food,(USD),273.50390806616235
+Zurich,Prices: Food,(USD),629.3238101596509
