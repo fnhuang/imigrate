@@ -1,0 +1,17 @@
+[
+    {
+        "id": "london",
+        "city": "London",
+        "country_code": "GBR",
+        "country": "United Kingdom",
+        "values": [
+            {
+                "id": "earnings",
+                "description": "Earnings: Average annual (gross)",
+                "value": 39555.82526286308,
+                "type": "USD",
+                "source": "UBS"
+            }
+        ]
+    }
+]
